@@ -87,3 +87,7 @@ http://103.205.133.19/hls/zing.m3u8
 http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 ,Sony Movies
 http://51.52.156.22:8888/http/009
+#EXTINF:-1 ,Subrang TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 ,Times Now
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
