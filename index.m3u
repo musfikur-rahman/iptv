@@ -39,6 +39,8 @@ http://103.205.133.19/hls/jamunatv.m3u8
 http://103.205.133.19/hls/mohonatv.m3u8
 #EXTINF:-1 ,My TV
 http://103.205.133.19/hls/mytv.m3u8
+#EXTINF:-1 ,Nagorik
+http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 ,News24
 http://103.205.133.19/hls/news24.m3u8
 #EXTINF:-1 ,NTV
@@ -63,6 +65,8 @@ http://103.205.133.19/hls/dhoommusic.m3u8
 http://103.205.133.19/hls/bbcearth.m3u8
 #EXTINF:-1 ,Sony Six
 http://103.205.133.19/hls/sonysix.m3u8
+#EXTINF:-1 ,Sony 8
+http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 ,Sony Ten 1
 http://103.205.133.19/hls/ten1.m3u8
 #EXTINF:-1 ,Sony Ten 2
@@ -73,7 +77,13 @@ http://103.205.133.19/hls/ten3.m3u8
 http://103.205.133.19/hls/colorsbangla.m3u8
 #EXTINF:-1 ,Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
+#EXTINF:-1 ,Wow Cinema
+http://103.205.133.19/hls/wowcinema.m3u8
 #EXTINF:-1 ,Zee Cinema
 http://103.205.133.19/hls/zeecinema.m3u8
 #EXTINF:-1 ,Zing
 http://103.205.133.19/hls/zing.m3u8
+#EXTINF:-1 ,Jonack TV
+http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 ,Sony Movies
+http://51.52.156.22:8888/http/009
