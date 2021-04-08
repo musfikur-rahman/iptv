@@ -117,3 +117,5 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF:-1 ,FASION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 ,CGTN DOCUMENTERY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
