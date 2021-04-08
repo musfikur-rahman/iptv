@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
+#EXTINF:-1 ,Star Movies HD
+http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1 ,Ananda TV
 http://103.205.133.19/hls/anandatv.m3u8
 #EXTINF:-1 ,Asian TV
