@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Colors
-https://edge4.bioscopelive.com/hls/anonymous/962xGbhroSEIPv2ZFc8BHQ/1617859762/colors_hi/index.m3u8
-#EXTINF:-1 ,Zee Bangla
-https://edge4.bioscopelive.com/hls/anonymous/zCLMxXW2P80q18pTVUzPzQ/1617860296/zee_bangla_mid/index.m3u8
 #EXTINF:-1 ,Ananda TV
 http://103.205.133.19/hls/anandatv.m3u8
 #EXTINF:-1 ,Asian TV
@@ -11,8 +7,6 @@ http://103.205.133.19/hls/asiantv.m3u8
 http://103.205.133.19/hls/atnbangla.m3u8
 #EXTINF:-1 ,ATN News
 http://103.205.133.19/hls/atnnews.m3u8
-#EXTINF:-1 ,ATN Islamic TV
-https://edge4.bioscopelive.com/hls/anonymous/t1eEEdULedcjAhualS3evg/1617860182/atn_islamic_tv_mid/index.m3u8
 #EXTINF:-1 ,Bangla Vision
 http://103.205.133.19/hls/banglavision.m3u8
 #EXTINF:-1 ,BTV
@@ -21,8 +15,6 @@ http://103.205.133.19/hls/btv.m3u8
 http://103.205.133.19/hls/btvworld.m3u8
 #EXTINF:-1 ,Bangla TV
 http://103.205.133.19/hls/banglatv.m3u8
-#EXTINF:-1 ,Channel I
-https://edge4.bioscopelive.com/hls/anonymous/gzEII_Pwd0hv-is7TgPyjg/1617860359/channel_i.m3u8
 #EXTINF:-1 ,Channel 24
 http://103.205.133.19/hls/channel24.m3u8
 #EXTINF:-1 ,Channel T1
@@ -41,8 +33,6 @@ http://103.205.133.19/hls/deeptotv.m3u8
 http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:-1 ,Gaan Bangla
 http://103.205.133.19/hls/gaanbangla.m3u8
-#EXTINF:-1 ,Independent TV
-https://edge4.bioscopelive.com/hls/anonymous/Nb04Jtfm9LItOVFntbajfA/1617860073/independent_tv_mid/index.m3u8
 #EXTINF:-1 ,Jamuna TV
 http://103.205.133.19/hls/jamunatv.m3u8
 #EXTINF:-1 ,Mohona TV
@@ -89,10 +79,6 @@ http://103.205.133.19/hls/colorsbangla.m3u8
 http://103.205.133.19/hls/ruposhibangla.m3u8
 #EXTINF:-1 ,Wow Cinema
 http://103.205.133.19/hls/wowcinema.m3u8
-#EXTINF:-1 ,Zee Cinema
-https://edge4.bioscopelive.com/hls/anonymous/E9TF1srSVH8O7SYv2yBDew/1617860481/zee_cinema_mid/index.m3u8
-#EXTINF:-1 ,Zee Bangla
-https://edge4.bioscopelive.com/hls/anonymous/JpDcUTzEGhMhm1LMUuQYTw/1617860541/zee_bangla_mid/index.m3u8
 #EXTINF:-1 ,Zing
 http://103.205.133.19/hls/zing.m3u8
 #EXTINF:-1 ,Jonack TV
@@ -105,5 +91,3 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 ,Sristi TV
 http://tempe.jagobd.com:1932/iptv/independent.stream/playlist.m3u8
-#EXTINF:-1 ,MTV
-https://edge4.bioscopelive.com/hls/anonymous/LDxspttwzV_CG8erhfnelg/1617860414/mtv_mid/index.m3u8
