@@ -1,7 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,Colors
+http://103.205.133.19/hls/chc.m3u8
 #EXTINF:-1 ,Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
-
+#EXTINF:-1 ,Star Plus
+http://103.205.133.19/hls/chsp.m3u8
 #EXTINF:-1 ,Ananda TV
 http://103.205.133.19/hls/anandatv.m3u8
 #EXTINF:-1 ,Asian TV
