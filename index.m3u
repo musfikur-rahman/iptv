@@ -9,7 +9,9 @@ http://103.205.133.19/hls/chsp.m3u8
 http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",&Picture
 http://103.205.133.19/hls/andpicture.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="",Star Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",&Tv
+http://103.205.133.19/hls/andtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Star Sports 2 HD
 http://103.205.133.19/hls/chss2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",9XM
 http://103.205.133.19/hls/9xm.m3u8
@@ -39,35 +41,39 @@ http://103.205.133.19/hls/ten2.m3u8
 http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zee News
 http://103.205.133.19/hls/zeenews.m3u8
-#EXTINF:-1 ,Ananda TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/masti-TV.jpg" group-title="",Masti
+http://103.205.133.19/hls/masti.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="http://www.homesystems.in/clogo/Discovry-Kid's.jpg",Discovery Kids
+http://103.205.133.19/hls/discoverykids.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Ananda TV
 http://103.205.133.19/hls/anandatv.m3u8
-#EXTINF:-1 ,Asian TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Asian TV
 http://103.205.133.19/hls/asiantv.m3u8
-#EXTINF:-1 ,ATN Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ATN Bangla
 http://103.205.133.19/hls/atnbangla.m3u8
-#EXTINF:-1 ,ATN News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ATN News
 http://103.205.133.19/hls/atnnews.m3u8
-#EXTINF:-1 ,Bangla Vision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Bangla Vision
 http://103.205.133.19/hls/banglavision.m3u8
-#EXTINF:-1 ,BTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BTV
 http://103.205.133.19/hls/btv.m3u8
-#EXTINF:-1 ,BTV World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BTV World
 http://103.205.133.19/hls/btvworld.m3u8
-#EXTINF:-1 ,Bangla TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Bangla TV
 http://103.205.133.19/hls/banglatv.m3u8
-#EXTINF:-1 ,Bijoy TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Bijoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 ,Channel I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Channel I
 http://103.205.133.19/hls/ichannel.m3u8
-#EXTINF:-1 ,Channel 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Channel 24
 http://103.205.133.19/hls/channel24.m3u8
-#EXTINF:-1 ,Channel T1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
-#EXTINF:-1 ,Channel S
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Channel S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
-#EXTINF:-1 ,DBC News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DBC News
 http://103.205.133.19/hls/dbcnews.m3u8
-#EXTINF:-1 ,Digi Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Digi Bangla
 http://103.205.133.19/hls/digibangla.m3u8
 #EXTINF:-1 ,Desh TV
 http://103.205.133.19/hls/deshtv.m3u8
