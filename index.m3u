@@ -11,6 +11,8 @@ http://103.205.133.19/hls/chsj.m3u8
 http://103.205.133.19/hls/andpicture.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="",Star Sports 2 HD
 http://103.205.133.19/hls/chss2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",9XM
+http://103.205.133.19/hls/9xm.m3u8
 #EXTINF:-1 ,Ananda TV
 http://103.205.133.19/hls/anandatv.m3u8
 #EXTINF:-1 ,Asian TV
