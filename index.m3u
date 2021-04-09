@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.favpng.com/7/21/6/viacom-18-logo-color-television-colors-png-favpng-7KQH4kbTqUNq5xnjqLEmPYpKW.jpg" group-title="Serial",Colors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/Colors.jpg" group-title="",Colors
 http://103.205.133.19/hls/chc.m3u8
 #EXTINF:-1 ,Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
-#EXTINF:-1 ,Star Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/Star-Plus.jpg" group-title="",Star Plus
 http://103.205.133.19/hls/chsp.m3u8
 #EXTINF:-1 ,Star Jalsha
 http://103.205.133.19/hls/chsj.m3u8
@@ -37,6 +37,8 @@ http://103.205.133.19/hls/ten1.m3u8
 http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 ,Sony Ten 3
 http://103.205.133.19/hls/ten3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zee News
+http://103.205.133.19/hls/zeenews.m3u8
 #EXTINF:-1 ,Ananda TV
 http://103.205.133.19/hls/anandatv.m3u8
 #EXTINF:-1 ,Asian TV
