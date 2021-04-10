@@ -49,7 +49,7 @@ http://103.205.133.19/hls/discoverykids.m3u8
 http://103.205.133.19/hls/anandatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Asian TV
 http://103.205.133.19/hls/asiantv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ATN Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1920px-ATN_Bangla.svg.png" group-title="",ATN Bangla
 http://103.205.133.19/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ATN News
 http://103.205.133.19/hls/atnnews.m3u8
