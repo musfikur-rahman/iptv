@@ -47,13 +47,13 @@ http://103.205.133.19/hls/masti.m3u8
 http://103.205.133.19/hls/discoverykids.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Ananda TV
 http://103.205.133.19/hls/anandatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Asian TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png" group-title="",Asian TV
 http://103.205.133.19/hls/asiantv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1920px-ATN_Bangla.svg.png" group-title="",ATN Bangla
 http://103.205.133.19/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ATN News
 http://103.205.133.19/hls/atnnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Bangla Vision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="",Bangla Vision
 http://103.205.133.19/hls/banglavision.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BTV
 http://103.205.133.19/hls/btv.m3u8
@@ -63,7 +63,7 @@ http://103.205.133.19/hls/btvworld.m3u8
 http://103.205.133.19/hls/banglatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Bijoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Channel I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1920px-Channel-i.svg.png" group-title="",Channel I
 http://103.205.133.19/hls/ichannel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Channel 24
 http://103.205.133.19/hls/channel24.m3u8
@@ -75,27 +75,27 @@ https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 http://103.205.133.19/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Digi Bangla
 http://103.205.133.19/hls/digibangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Desh TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="",Desh TV
 http://103.205.133.19/hls/deshtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Deepto TV
 http://103.205.133.19/hls/deeptotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ETV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="",ETV
 http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Gaan Bangla
 http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Jamuna TV
 http://103.205.133.19/hls/jamunatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Mohona TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/1024px-Mohona_Logo.JPG" group-title="",Mohona TV
 http://103.205.133.19/hls/mohonatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",My TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="",My TV
 http://103.205.133.19/hls/mytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nagorik
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",News24
 http://103.205.133.19/hls/news24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1920px-NTV_%28Bangladesh%29_logo.svg.png" group-title="",NTV
 http://103.205.133.19/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG" group-title="",RTV
 http://103.205.133.19/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SATV
 http://103.205.133.19/hls/satv.m3u8
