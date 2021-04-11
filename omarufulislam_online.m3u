@@ -41,50 +41,94 @@ http://103.205.133.19/hls/gaanbangla.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GTV 
 http://iptv.kitv.live:1935/live/Shari/MTV-P/110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MOHONA TV http://103.205.133.19/hls/mohonatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MY TV http://103.205.133.19/hls/mytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nagorik TV http://103.205.133.19/hls/nagorik.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nagorik TV http://iptv.kitv.live:1935/live/Shari/MTV-P/107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",News 24 http://103.205.133.19/hls/news24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",News 24 http://iptv.kitv.live:1935/live/Shari/MTV-P/119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NTV http://103.205.133.19/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NTV http://iptv.kitv.live:1935/live/Shari/MTV-P/112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTV http://103.205.133.19/hls/rtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SATV http://103.205.133.19/hls/satv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Shomoy TV http://103.205.133.19/hls/somoy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Shomoy TV http://iptv.kitv.live:1935/live/Shari/MTV-P/117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Star Jalsha HD http://iptv.kitv.live:1935/live/Shari/MTV-P/125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Star Jalsha https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Six HD http://103.205.133.19/hls/sonysix.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Six HD http://iptv.kitv.live:1935/live/Shari/MTV-P/158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Ten 1 http://103.205.133.19/hls/ten1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Ten 1 http://iptv.kitv.live:1935/live/Shari/MTV-P/156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Ten 2 http://103.205.133.19/hls/ten2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Ten 2 HD http://iptv.kitv.live:1935/live/Shari/MTV-P/159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Ten 3 http://103.205.133.19/hls/ten3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Euro Sports http://iptv.kitv.live:1935/live/Shari/MTV-P/157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",D Sports http://iptv.kitv.live:1935/live/Shari/MTV-P/162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony TV http://iptv.kitv.live:1935/live/Shari/MTV-P/133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Max http://iptv.kitv.live:1935/live/Shari/MTV-P/140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Pix http://iptv.kitv.live:1935/live/Shari/MTV-P/148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ZEE TV SD http://iptv.kitv.live:1935/live/Shari/MTV-P/135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zee Cinema http://103.205.133.19/hls/zeecinema.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zee Cinema http://iptv.kitv.live:1935/live/Shari/MTV-P/136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zee ETC http://iptv.kitv.live:1935/live/Shari/MTV-P/179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Star Plus http://iptv.kitv.live:1935/live/Shari/MTV-P/134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Mastii http://iptv.kitv.live:1935/live/Shari/MTV-P/184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BBC Lifestyle http://iptv.kitv.live:1935/live/Shari/MTV-P/155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TLC English http://iptv.kitv.live:1935/live/Shari/MTV-P/312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",History TV SD http://iptv.kitv.live:1935/live/Shari/MTV-P/193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nat Geo Wild http://iptv.kitv.live:1935/live/Shari/MTV-P/166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Discovery HD http://iptv.kitv.live:1935/live/Shari/MTV-P/167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BBC Earth http://iptv.kitv.live:1935/live/Shari/MTV-P/168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cartoon Network http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nick http://iptv.kitv.live:1935/live/Shari/MTV-P/174.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Disney XD http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Yay http://iptv.kitv.live:1935/live/Shari/MTV-P/172.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cheebies Asia http://iptv.kitv.live:1935/live/Shari/MTV-P/173.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV India http://iptv.kitv.live:1935/live/Shari/MTV-P/181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MOHONA TV 
+http://103.205.133.19/hls/mohonatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MY TV 
+http://103.205.133.19/hls/mytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nagorik TV 
+http://103.205.133.19/hls/nagorik.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nagorik TV 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",News 24
+http://103.205.133.19/hls/news24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",News 24 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NTV 
+http://103.205.133.19/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NTV 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTV 
+http://103.205.133.19/hls/rtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SATV 
+http://103.205.133.19/hls/satv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Shomoy TV 
+http://103.205.133.19/hls/somoy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Shomoy TV 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Star Jalsha HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Star Jalsha 
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Six HD 
+http://103.205.133.19/hls/sonysix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Six HD 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Ten 1
+http://103.205.133.19/hls/ten1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Ten 1 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Ten 2 
+http://103.205.133.19/hls/ten2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Ten 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Ten 3 
+http://103.205.133.19/hls/ten3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Euro Sports
+http://iptv.kitv.live:1935/live/Shari/MTV-P/157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",D Sports
+http://iptv.kitv.live:1935/live/Shari/MTV-P/162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony TV 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Max 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Pix 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ZEE TV SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zee Cinema 
+http://103.205.133.19/hls/zeecinema.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zee Cinema 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zee ETC 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Star Plus 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Mastii 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BBC Lifestyle 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TLC English 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",History TV SD 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nat Geo Wild 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Discovery HD 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BBC Earth
+http://iptv.kitv.live:1935/live/Shari/MTV-P/168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cartoon Network 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nick 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Disney XD 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Yay
+http://iptv.kitv.live:1935/live/Shari/MTV-P/172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cheebies Asia
+http://iptv.kitv.live:1935/live/Shari/MTV-P/173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV India
+http://iptv.kitv.live:1935/live/Shari/MTV-P/181.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTV Europe 
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MN+ HD 
