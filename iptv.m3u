@@ -15,7 +15,7 @@ http://103.205.133.19/hls/andpicture.m3u8
 http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Star Sports 2 HD
 http://103.205.133.19/hls/chss2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="",9XM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/9xM.jpeg/revision/latest/scale-to-width-down/400?cb=20200119110312" group-title="",9XM
 http://103.205.133.19/hls/9xm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png" group-title="",B4U Movies
 http://103.205.133.19/hls/b4umovies.m3u8
