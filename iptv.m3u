@@ -113,7 +113,7 @@ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chu
 http://103.205.133.19/hls/zeenews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/masti-TV.jpg" group-title="",Mastiii
 http://103.205.133.19/hls/masti.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="http://www.homesystems.in/clogo/Discovry-Kid's.jpg",Discovery Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/Discovry-Kid's.jpg" group-title="",Discovery Kids
 http://103.205.133.19/hls/discoverykids.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="",BBC Earth
 http://103.205.133.19/hls/bbcearth.m3u8
@@ -167,7 +167,7 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/02/14/9x-jalwa.jpg?itok=kW3-YB5F" group-title="",9x Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Aaj Tak
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="",Aaj Tak
 https://aajtaklive-amd.akamaized.net:443/hls/live/2014416/aajtak/aajtaklive/aajtak_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/BBC_World_News_red.svg" group-title="",BBC World
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
