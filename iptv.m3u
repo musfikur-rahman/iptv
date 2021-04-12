@@ -43,6 +43,8 @@ http://103.205.133.19/hls/ten2.m3u8
 http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESPN 2
 https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESPN U
+https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zee News
 http://103.205.133.19/hls/zeenews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/masti-TV.jpg" group-title="",Masti
