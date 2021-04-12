@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="",Colors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.favpng.com/7/21/6/viacom-18-logo-color-television-colors-png-favpng-7KQH4kbTqUNq5xnjqLEmPYpKW.jpg" group-title="",Colors
 http://103.205.133.19/hls/chc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="",Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
