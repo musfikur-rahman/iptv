@@ -135,11 +135,11 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/1200px-Logo_beIN_SPORTS_MAX.png" group-title="",SPORTS MAX
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FASION TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="",FASION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BOLLYWOOD TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/57e2b3494c725fb6c66d1aa3bc86eab91a20647f6392851d2068f976169cc658.png" group-title="",BOLLYWOOD TV
 http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",B4U KADAK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://indeltv.in/wp-content/uploads/2019/11/Channel_B4ukadak.png" group-title="",B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tellyshowupdates.com/wp-content/uploads/2018/03/zeeclassic_new-1.png" group-title="",ZEE CLASSIC
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
