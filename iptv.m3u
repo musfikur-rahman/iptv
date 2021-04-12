@@ -125,8 +125,6 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png" group-title="",Sony Movies
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniYhIwKCT6ZWhqlZwqeq0ojxtA7Nnn5YuyLBjxZ=s900-c-k-c0x00ffffff-no-rj" group-title="",Sristi TV
-http://tempe.jagobd.com:1932/iptv/independent.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Z_Living_Logo.png" group-title="",Zee Living
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/640px-MTV_Logo.svg.png" group-title="",MTV
