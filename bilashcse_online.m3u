@@ -1,0 +1,190 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",5aab TV http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",7S Music http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ABP Asmita http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ACV https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ACV News https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ACV Utsav https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ACV Utsav Plus https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Akaal TV http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Amrita TV http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Arihant TV https://ylive72-i.akamaihd.net/hls/live/691753/arihant/arihant/playlist.m3u8?b=100-2500&dw=7200&hdnea=st=1568042660~exp=1568057060~acl=!*/691753/arihant/*!/payload/yupptvnewservice_5_-1_na_IN_146.88.24.128/*~hmac=ce9136133e83ec5f44199a19b537ebfc4464402657face38e04d683f193f2b55&partnerid=1000&partnername=YUPPIN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Asianet News http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Ayush TV http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BBC World News http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Bollywood Now https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Boogle Bollywood http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNBC Awaaz https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNBC Bajar https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNBC TV18 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNBC TV18 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DD Malayalam http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DD National http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DD News http://bit.ly/2m4L4mi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DD News http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DD Sports http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DD Sports http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Desi Channel http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Desi Plus http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Divya http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DW http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ET Now http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ET Now https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Fashion TV http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Flowers TV http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Gaunda Punjab TV http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Gurbani Healing http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Harvest TV USA http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Hiru TV http://cdncities.com/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",India Today https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Jaihind TV http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Janam TV https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Janataa TV http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Janta TV http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Jeevan TV http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Kairali http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Kairali News http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Kairali TV http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Kairali We http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Kalaignar http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Kappa TV http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Kasthuri TV http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Kaumudy TV http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Lok Sabha TV https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Mangalam TV http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Manorama News http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Mastiii http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Mathrubhumi News http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Mazhavil Manorama HD http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Media One http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Media One https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Mirror Now http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Mirror Now https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MK Six http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MK Tunes http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MK TV http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nav Media http://abr.wmncdn.net/abr/612a5eb791b43209a8eccdde569e8ee1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NDTV 24x7 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nethra TV http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",News 24 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",News18 Lokmat https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Pratidin Time https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Prime Canada TV http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Public Music http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Punjabi TV http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Puthuyugam TV http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Reporter TV http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Rosebowl https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RSTV RajyaSabha http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sardari TV http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Shubhsandesh http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Steelbird Music http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Subrang TV http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Suvarna News 24×7 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Tamil Vision International http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Thanthi TV https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",The Q India https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8?__nn__=5606168722001&hdnea=st=1566232200~exp=1566235800~acl=/hls/live/784034/Q001/*~hmac=4de929fdc0ee53199a11237ee75a695383a82a42623fa92c1376493e5fc91d7b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Times Now HD https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV9 Telugu http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Twenty Four News http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Vaanavil TV http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Jonack TV http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",R Plus News https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Geo Entertainment https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Channel Win http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Peace TV Bangla https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Star Jalsha https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Colour Bangla https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Assam Talks http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Fasion TV https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Serveur TV https://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Popular Scince https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Ten 1 HD https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Dubai Racing http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Dubai Racing http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Dubai Racing http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Edge Sports https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DW http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Movie kingdom https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Bollywood HD https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Shemaroo Bollywood Premier https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",92 News http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",92 UK https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Dunya News http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zindagi TV https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Subrang TV (USA) http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EBS KIDS http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GOLF NETWORK http://203.162.235.41:16924
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESPN 2 https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESPN News https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESPN U https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Ads sport cricket http://212.47.252.54/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Newsmax https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BBC News http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ABC News https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Arirang http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cheddar Big News https://live.chdrstatic.com/cbn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Deutsche Welle (English) https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",France 24 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHK World https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RT http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TRT World https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Bloomberg Asia https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cheddar https://live.chdrstatic.com/cheddar/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",One Golf http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Tennis Channel https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Tennis Channel+ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Docurama https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Monarch TV https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",People TV https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TMZ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Bollywood TV http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Filmrise Classics https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Filmrise Crime https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Movies Kingdom https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Screamfest https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN Documentary https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Aaj Tak http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FASTWAY NEWS http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Anjan https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Marutam TV http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Tamil Vision http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Velicham https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Malaimurasu https://wowzaprod170-i.akamaihd.net/hls/live/630629/b6055932/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Santhora Short Flim http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Channel NewsAsia https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV Ikim http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BritCom https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Dove Channel https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WHDH-TV https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AMGTV https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BYUtv http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",American Horrors http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Sony Movies http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MH1 Music http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Life Punjabi http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Punjabi Zindabad http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BritAsia TV https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Hulchul TV http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Global Punjab https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MH1 Prim http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FastWay http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Channel Y http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",92 News http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AVT KHYBER https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",B4U Kadak http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Dunya News http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Eawaz TV (CA) https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Eye 95 America (US) http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Khyber News TV https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PakUs TV https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Tag TV http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zindagi TV https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Channel T1 http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Channel-S https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Madani TV Bangla https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBS News https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",IN: SONY TEN 1 http://103.205.133.19/hls/ten1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",IN: SONY TEN 2 http://103.205.133.19/hls/ten2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",IN: SONY TEN 3 http://103.205.133.19/hls/ten3.m3u8
