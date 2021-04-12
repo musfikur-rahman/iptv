@@ -109,13 +109,13 @@ https://gma2.blab.email/espn2.m3u8
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="",PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Zee News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png" group-title="",Zee News
 http://103.205.133.19/hls/zeenews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/masti-TV.jpg" group-title="",Mastiii
 http://103.205.133.19/hls/masti.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="http://www.homesystems.in/clogo/Discovry-Kid's.jpg",Discovery Kids
 http://103.205.133.19/hls/discoverykids.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BBC Earth
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="",BBC Earth
 http://103.205.133.19/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
