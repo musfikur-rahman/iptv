@@ -13,7 +13,6 @@ http://118.179.35.11/hls/AsianTV56UtYait/06.m3u8
 http://130.185.144.63:8081/bang/ASIANTV/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2yw6a6b.png",[COLOR orange] ASIAN TV LQ [/COLOR]
 http://162.254.149.187:1935/live/asiantv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/bangla-vison.png",BANGLAVISION HQ
 http://118.179.35.11/hls/Bangla_VisionhS43Bait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/bangla-vison.png",[COLOR green]BANGLAVISION[/COLOR]
@@ -28,10 +27,6 @@ http://162.254.149.187:1935/live/btv/media_w510264447_1873.m3u8
 http://118.179.35.11/hls/nTVKeQBRait/05.m3u8
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/f1ci86.png",[COLOR green]NTV DT[/COLOR]
 http://130.185.144.63:8081/bang/NTVBANGLA/chunks.m3u8?
-
-
-
-
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-9.png",CHANNEL 9
 http://118.179.35.11/hls/Channel92fE8jxVuait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/channel-9.png",[COLOR orange]CHANNEL 9 DT[/COLOR]
@@ -55,7 +50,6 @@ http://118.179.35.11/hls/ChannelI4sZk9ait/05.m3u8
 http://118.179.35.11/hls/RTVBHp5Yait/05.m3u8
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/R-tv.png",[COLOR green]RTV [/COLOR]
 http://109.123.116.246:1935/chlSVydmVyX3EpbWU9Ke8yNS9yMFRPIUE6RjE2ejUxIRBBJRhhc4h/rtv-sg.stream/chunklist.m3u8?
-
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/R-tv.png",[COLOR red]RTV [/COLOR]
 http://130.185.144.63:8081/bang/RTV/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/1zdy7v5.jpg",DEEPTO TV HQ
@@ -101,7 +95,6 @@ http://130.185.144.63:8081/bang/NEWS24HD/chunks.m3u8?
 http://130.185.144.63:8081/bang/DBCNEWS/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/independent-tv.png",INDEPENDENT TV HQ
 http://118.179.35.11/hls/ITV2434BuAait/04.m3u8
-
 #EXTINF:-1,INDEPENDENT TV LQ
 
 #EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/independent-tv.png",[COLOR green] INDEPENDENT DT[/COLOR]
