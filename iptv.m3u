@@ -155,7 +155,7 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="",Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/proxy/LDIRjpdT2H5pwVZ0tWdIXgKPL2hhkJrx5VIXX3cM6FsDK89Z4JPY3r5v4w5RMKx7xpnnHZxFDGtiez8U0RbqzT7rJbk" group-title="",Manoranjan Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/800/202003/bollywood-premiere-logo.png.jpg" group-title="",Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
@@ -175,7 +175,7 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="",Aaj Tak
 https://aajtaklive-amd.akamaized.net:443/hls/live/2014416/aajtak/aajtaklive/aajtak_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/BBC_World_News_red.svg" group-title="",BBC World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bbcnewschannelfinder.com/resources/uploads/videos/p09csljr.jpg" group-title="",BBC World
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
