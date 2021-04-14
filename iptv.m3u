@@ -189,3 +189,5 @@ http://otv.ftpbd.net/streams/123/index.m3u8
 http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/640px-STAR_Movies_logo.svg.png" group-title="",Star Movies HD
 http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.newindianexpress.com/uploads/user/imagelibrary/2020/8/13/w900X450/HBO_FB.JPG" group-title="",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
