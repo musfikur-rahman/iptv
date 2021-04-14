@@ -63,8 +63,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/836470145652383744/v4refNT9.jpg" group-title="",Channel S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://digibangla.tv/assets/img/logo-tv.png" group-title="",Digi Bangla
-http://103.205.133.19/hls/digibangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="",DBC News
 http://103.205.133.19/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="",Deepto TV
