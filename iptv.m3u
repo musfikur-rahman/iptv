@@ -35,7 +35,7 @@ http://103.205.133.19/hls/channel24.m3u8
 http://103.205.133.19/hls/deshtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="",ETV
 http://103.205.133.19/hls/ekushey.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" group-title="",Independent TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x15351" group-title="",Independent TV
 https://tempdfn.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/JamunaTV_logo.jpg" group-title="",Jamuna TV
 http://103.205.133.19/hls/jamunatv.m3u8
