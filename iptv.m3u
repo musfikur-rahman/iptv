@@ -91,6 +91,8 @@ http://103.205.133.19/hls/b4umusic.m3u8
 http://103.205.133.19/hls/dhoommusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/Sony-Entertaintment-TV.jpg" group-title="",Sony
 http://103.205.133.19/hls/chs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/Sony-PIX.jpg" group-title="",Sony Pix HD
+http://103.205.133.19/hls/sonypix.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Wow_Cinema.jpg/revision/latest?cb=20191223072059" group-title="",Wow Cinema
 http://103.205.133.19/hls/wowcinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="",Zing
