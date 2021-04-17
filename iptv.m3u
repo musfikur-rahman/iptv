@@ -60,7 +60,7 @@ http://103.205.133.19/hls/btvworld.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/banglatvhd-1.jpg?x15351" group-title="",Bangla Tv
 http://103.205.133.19/hls/banglatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg?x15351" group-title="",Bijoy TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+http://103.205.133.19/hls/bijoytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.funtatv.com/wp-content/uploads/2020/08/channel-t1_spyvjm.png" group-title="",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Channel-S-LOGO.jpg?x15351" group-title="",Channel S BD
@@ -107,12 +107,6 @@ http://otv.ftpbd.net/streams/116/index.m3u8
 http://103.205.133.19/hls/chss2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="",Sony Ten 1
 http://103.205.133.19/hls/ten1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg/revision/latest?cb=20190322143710" group-title="",Sony Ten 1 HD
-http://otv.ftpbd.net/streams/122/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/bdixsports.com/wp-content/uploads/2018/04/ten2.jpg?fit=300%2C250" group-title="",Sony Ten 2
-http://103.205.133.19/hls/ten2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest/scale-to-width-down/340?cb=20190322144135" group-title="",Sony Ten 3
-http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="",ESPN 2
 https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png" group-title="",ESPN U
