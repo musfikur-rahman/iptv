@@ -8,7 +8,7 @@ http://103.205.133.19/hls/chsp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="",Star Jalsha
 http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bangla-logo.png" group-title="",Zee Bangla
-http://otv.ftpbd.net/streams/107/index.m3u8
+http://103.205.133.19/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x15351" group-title="",Asian TV
 http://103.205.133.19/hls/asiantv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x15351" group-title="",ATN Bangla
