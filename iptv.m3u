@@ -175,23 +175,25 @@ https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklis
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" group-title="",Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/02/14/9x-jalwa.jpg?itok=kW3-YB5F" group-title="",9x Jalwa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/UJswUfQBgU8/maxresdefault.jpg" group-title="",9x Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="",Aaj Tak
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/10/23/aajtak.jpg" group-title="",Aaj Tak
 https://aajtaklive-amd.akamaized.net:443/hls/live/2014416/aajtak/aajtaklive/aajtak_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bbcnewschannelfinder.com/resources/uploads/videos/p09csljr.jpg" group-title="",BBC World
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="",National Geographic HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1277658125479403520/AOFAWNvv_400x400.jpg" group-title="",National Geographic HD
 http://otv.ftpbd.net/streams/110/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/495-4959368_discovery-bangla-logo-graphic-design-hd-png-download.png" group-title="",Discovery Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-NGmDuNc2Tr4/WQmQRHWqoYI/AAAAAAAAG-c/heiPTLzPI0UrFdCy1bBjAIcc2RQJ46CtwCLcB/s1600/gtv.jpg" group-title="",Discovery Digital
 http://otv.ftpbd.net/streams/121/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="",Cartoon Network
 http://otv.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Utv_Action.png" group-title="",UTV Action
 http://otv.ftpbd.net/streams/124/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/640px-STAR_Movies_logo.svg.png" group-title="",Star Movies HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="",Star Movies
+http://103.205.133.19/hls/starmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/37/STAR_Movies_HD_logo.jpg" group-title="",Star Movies HD
 http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.newindianexpress.com/uploads/user/imagelibrary/2020/8/13/w900X450/HBO_FB.JPG" group-title="",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
