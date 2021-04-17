@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.favpng.com/7/21/6/viacom-18-logo-color-television-colors-png-favpng-7KQH4kbTqUNq5xnjqLEmPYpKW.jpg" group-title="",Colors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.indiaforums.com/channel/320x180/0/070-colors.jpg" group-title="",Colors
 http://103.205.133.19/hls/chc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="",Colors HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sohamcablenetwork.com/static/images/channels/colorshdlogo002.jpg" group-title="",Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="",Star Plus
 http://103.205.133.19/hls/chsp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="",Star Jalsha
 http://103.205.133.19/hls/chsj.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bangla-logo.png" group-title="",Zee Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="",Zee Bangla
 http://103.205.133.19/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x15351" group-title="",Asian TV
 http://103.205.133.19/hls/asiantv.m3u8
