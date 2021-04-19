@@ -1,4 +1,12 @@
   
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Colors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Aldawah TV
+https://aldawahtv.telelivebd.com/AldawahTV/AldawahTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ATN News
+https://globalip.telelivebd.com/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ATV
+https://atv-hls.telelivebd.com/atv/atv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BTV
+https://linkerstv-hls.telelivebd.com/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
