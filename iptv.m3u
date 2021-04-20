@@ -195,7 +195,7 @@ http://otv.ftpbd.net/streams/124/index.m3u8
 http://103.205.133.19/hls/starmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-hd-logo-300x300.jpg" group-title="",Star Movies HD
 http://otv.ftpbd.net/streams/125/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.newindianexpress.com/uploads/user/imagelibrary/2020/8/13/w900X450/HBO_FB.JPG" group-title="",HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.wallpaperup.com/uploads/wallpapers/2014/09/15/443430/e31ba04f0c2236ff1495e96caf2d8c55-700.jpg" group-title="",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg" group-title="",Madani Ch. Bangla
 http://103.205.133.19/hls/madanitv.m3u8
