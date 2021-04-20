@@ -71,7 +71,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.205.133.19/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media-eng.dhakatribune.com/uploads/2016/12/1535_.jpg" group-title="",Deepto TV
 http://103.205.133.19/hls/deeptotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2400851422/gb_logo2_b.jpg" group-title="",Gaan Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x15351" group-title="",Gaan Bangla
 http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-title="",Nagorik
 http://103.205.133.19/hls/nagorik.m3u8
