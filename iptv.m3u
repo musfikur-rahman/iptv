@@ -61,7 +61,7 @@ http://103.205.133.19/hls/btvworld.m3u8
 http://103.205.133.19/hls/banglatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg?x15351" group-title="",Bijoy TV
 http://103.205.133.19/hls/bijoytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.funtatv.com/wp-content/uploads/2020/08/channel-t1_spyvjm.png" group-title="",Channel T1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.playboard.app/p/AATXAJzUIDBa1oHi0R9SU75Vx23Il2MLWDAzNkixOe5P/default.jpg" group-title="",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Channel-S-LOGO.jpg?x15351" group-title="",Channel S BD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channelsbd.stream/chunks.m3u8
