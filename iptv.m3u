@@ -67,11 +67,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x15351" group-title="",DBC News
 http://103.205.133.19/hls/dbcnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="",Deepto TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media-eng.dhakatribune.com/uploads/2016/12/1535_.jpg" group-title="",Deepto TV
 http://103.205.133.19/hls/deeptotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Gaan_Bangla_Official_Logo_.png" group-title="",Gaan Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2400851422/gb_logo2_b.jpg" group-title="",Gaan Bangla
 http://103.205.133.19/hls/gaanbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo1.png" group-title="",Nagorik
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-title="",Nagorik
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/HRjXQdYEqsE.png" group-title="",Ananda TV
 http://103.205.133.19/hls/anandatv.m3u8
@@ -143,14 +143,12 @@ http://51.52.156.22:8888/http/009
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/640px-MTV_Logo.svg.png" group-title="",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Fox_Sports_News_2015.svg/revision/latest/scale-to-width-down/340?cb=20170407162021" group-title="",FOX SPORTS NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="",FOX SPORTS NEWS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/1200px-Logo_beIN_SPORTS_MAX.png" group-title="",SPORTS MAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/765357041653276672/Y649c6qX_400x400.jpg" group-title="",SPORTS MAX
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="",FASION TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/brandmay27licenseindia9335dde5d9c77e26.jpg" group-title="",FASION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/57e2b3494c725fb6c66d1aa3bc86eab91a20647f6392851d2068f976169cc658.png" group-title="",BOLLYWOOD TV
-http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://indeltv.in/wp-content/uploads/2019/11/Channel_B4ukadak.png" group-title="",B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tellyshowupdates.com/wp-content/uploads/2018/03/zeeclassic_new-1.png" group-title="",ZEE CLASSIC
@@ -195,7 +193,7 @@ http://otv.ftpbd.net/streams/123/index.m3u8
 http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="",Star Movies
 http://103.205.133.19/hls/starmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/star-movies-hd.jpg" group-title="",Star Movies HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-hd-logo-300x300.jpg" group-title="",Star Movies HD
 http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.newindianexpress.com/uploads/user/imagelibrary/2020/8/13/w900X450/HBO_FB.JPG" group-title="",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
