@@ -11,8 +11,6 @@ http://103.205.133.19/hls/chsj.m3u8
 http://103.205.133.19/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x15351" group-title="",Asian TV
 http://103.205.133.19/hls/asiantv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/4c/e0/e3/4ce0e38496edb42cc6427a89f007a8b8.jpg" group-title="",GTV
-http://otv.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x15351" group-title="",ATN Bangla
 http://103.205.133.19/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x15351" group-title="",ATN News
@@ -99,26 +97,16 @@ http://103.205.133.19/hls/wowcinema.m3u8
 http://103.205.133.19/hls/zing.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="",Colors Bangla
 http://103.205.133.19/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="",Sony Six
-http://otv.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="",Sony 8
 http://103.205.133.19/hls/sony8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngjoy.com/pngm/952/11033345_india-cricket-logo-star-sports-2-logo-png.png" group-title="",Star Sports 2
-http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="",Star Sports 2 HD
 http://103.205.133.19/hls/chss2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="",Sony Ten 1
 http://103.205.133.19/hls/ten1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="",SONY TEN 1 HD
-http://otv.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv.bdtype.com/uploads/tv_image/sony-ten-2.png" group-title="",SONY TEN 2 HD
 http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://likeetv.com/uploads/tv_image/sony-ten-3.jpg" group-title="",SONY TEN 3 HD
 http://103.205.133.19/hls/ten3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="",STAR SPORTS SELECT 2 HD
-http://otv.ftpbd.net/streams/114/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="",ESPN 2
-http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png" group-title="",ESPN U
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="",PTV Sports
@@ -195,6 +183,18 @@ http://otv.ftpbd.net/streams/124/index.m3u8
 http://103.205.133.19/hls/starmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-hd-logo-300x300.jpg" group-title="",Star Movies HD
 http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/4c/e0/e3/4ce0e38496edb42cc6427a89f007a8b8.jpg" group-title="",GTV
+http://otv.ftpbd.net/streams/121/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="",Sony Six
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngjoy.com/pngm/952/11033345_india-cricket-logo-star-sports-2-logo-png.png" group-title="",Star Sports 2
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="",SONY TEN 1 HD
+http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="",STAR SPORTS SELECT 2 HD
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="",ESPN 2
+http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.wallpaperup.com/uploads/wallpapers/2014/09/15/443430/e31ba04f0c2236ff1495e96caf2d8c55-700.jpg" group-title="",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg" group-title="",Madani Ch. Bangla
