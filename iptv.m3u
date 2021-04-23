@@ -184,8 +184,6 @@ http://103.205.133.19/hls/starmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-hd-logo-300x300.jpg" group-title="",Star Movies HD
 http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/4c/e0/e3/4ce0e38496edb42cc6427a89f007a8b8.jpg" group-title="",GTV
-http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8?token=65b2800ccf6bcf0081a2ec6b8d7d4e89f7efd567-1470051e61cfcae58ba5e2b363848a96-1619207873-1619197073
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/4c/e0/e3/4ce0e38496edb42cc6427a89f007a8b8.jpg" group-title="",GTV
 http://otv.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="",Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
@@ -205,5 +203,7 @@ http://103.205.133.19/hls/madanitv.m3u8
 http://103.205.133.19/hls/rtnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x15351" group-title="",Time Televison
 http://103.205.133.19/hls/timetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/4c/e0/e3/4ce0e38496edb42cc6427a89f007a8b8.jpg" group-title="",GTV
+http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8?token=9b944d3a691b1547d854acc9327428be058b78d8-9a462e5bab3e8cd5c1eb1b02a4dbfdd7-1619209516-1619198716
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://amrbd.com/assets/images/sonymaxhd.jpg" group-title="",Sony Max
 http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=432b47a6fd68a70df3b609a63c3097707395a7a2-27b507b24e69357c1d512169c5559ceb-1619208078-1619197278
