@@ -203,7 +203,29 @@ http://103.205.133.19/hls/madanitv.m3u8
 http://103.205.133.19/hls/rtnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x15351" group-title="",Time Televison
 http://103.205.133.19/hls/timetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/4c/e0/e3/4ce0e38496edb42cc6427a89f007a8b8.jpg" group-title="",GTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdtv.live/assets/images/tsports.jpg" group-title="",T Sports HD
+http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=bd7ed135e85a9ffe7aff173ce69f5471a19bee55-814d00a360e36d0bd357f78e59af8234-1619212281-1619201481
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdtv.live/assets/images/gazi.jpg" group-title="",GTV
 http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8?token=9b944d3a691b1547d854acc9327428be058b78d8-9a462e5bab3e8cd5c1eb1b02a4dbfdd7-1619209516-1619198716
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdtv.live/assets/images/bein1.jpg" group-title="",Bein Sports HD
+http://stream.amrbd.com:8082/Bein/tracks-v1a1/mono.m3u8?token=b537e1bd67677d53155afe00346ffa3a337485b4-41633f44b80d0909133a1738e77b335c-1619212493-1619201693
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdtv.live/assets/images/sonysixhd.jpg" group-title="",Sony Six HD
+http://stream.amrbd.com:8082/SonySix/tracks-v1a1/mono.m3u8?token=040bbff23e72e9411196f16bf0d69ca0fb4fee00-9a698afb992e111eac5af1b146e96509-1619212574-1619201774
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdtv.live/assets/images/stargold.jpg" group-title="",Star Gold HD
+http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8?token=047bdbec363f254a950542eb3eaf9d6b3a3c168c-04bcab285895bdfd72fe7574e593373a-1619212735-1619201935
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdtv.live/assets/images/starplushd.jpg" group-title="",Star Plus HD
+http://stream.amrbd.com:8082/Star_Plus/tracks-v1a1/mono.m3u8?token=4260a8c746f4f0bbdbd9da8e64022a349531148c-658fa53412fb0abb6512d7dd19041bbc-1619212693-1619201893
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://amrbd.com/assets/images/sonymaxhd.jpg" group-title="",Sony Max
 http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=432b47a6fd68a70df3b609a63c3097707395a7a2-27b507b24e69357c1d512169c5559ceb-1619208078-1619197278
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdtv.live/assets/images/zeeacion.jpg" group-title="",Zee Action
+http://stream.amrbd.com:8082/ZeeAction/tracks-v1a1/mono.m3u8?token=f9071983ce4ac067d055f847e37b7c5560f14f0c-cf1938fc2751602b2f64f958fd6c2087-1619212791-1619201991
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdtv.live/assets/images/zeecinemahd.jpg" group-title="",Zee Cinema HD
+http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=b7d9225e6c187e5e6a311bc114fa75216ae62693-ce5d6793dba3578f9ff7d97f39745ce1-1619212820-1619202020
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdtv.live/assets/images/zeetvhd.jpg" group-title="",Zee TV HD
+http://stream.amrbd.com:8082/ZeeTV/tracks-v1a1/mono.m3u8?token=4ace023d9d59bd1fc61a3bff161005637f042d5a-47e344c00a8b48b327a41e22daeae3ec-1619212847-1619202047
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdtv.live/assets/images/animalplanetnew.jpg" group-title="",Animal Planet HD
+http://stream.amrbd.com:8082/Animal_Planet/tracks-v1a1/mono.m3u8?token=46dd4aee38e1d0f6a8cdd741ff1eb9dde8c040fc-1156729edd2e435f1629ce681cc0b989-1619212879-1619202079
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdtv.live/assets/images/discoveryhd.jpg" group-title="",Discovery HD
+http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=7010f986e48f55b9984bc49cb62a4d3560dc41c8-89329c2aa0da26047315215de3508b62-1619212910-1619202110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bdtv.live/assets/images/nick.jpg" group-title="",Nick
+http://stream.amrbd.com:8082/nike/tracks-v1a1/mono.m3u8?token=b37400a4bf7bf7d944679e66d4db0517bc7be2e3-02e6303adfe85ac295a09c04b3c2cc27-1619212940-1619202140
