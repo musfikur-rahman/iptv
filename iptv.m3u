@@ -205,3 +205,5 @@ http://103.205.133.19/hls/madanitv.m3u8
 http://103.205.133.19/hls/rtnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x15351" group-title="",Time Televison
 http://103.205.133.19/hls/timetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://amrbd.com/assets/images/sonymaxhd.jpg" group-title="",Sony Max
+http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=432b47a6fd68a70df3b609a63c3097707395a7a2-27b507b24e69357c1d512169c5559ceb-1619208078-1619197278
