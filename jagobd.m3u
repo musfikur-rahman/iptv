@@ -224,19 +224,16 @@ madanitvbangla.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive-300x300.jpg" group-title="",Makkah Live
 makkah.stream/playlist.m3u8
-makkah.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/04/makkahtv.jpg" group-title="",Makkah TV
-makkahtv.stream/chunks.m3u8
 makkahtv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live-300x300.jpg" group-title="",Medina Live
 madina.stream/chunks.m3u8
-madina.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/millennium24.jpg" group-title="",Millennium 24
-mnews24.stream/chunks.m3u8
-mnews24.stream/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mnews24.stream/chunks.m3u8
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mnews24.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mileninumTV.jpg?x15351" group-title="",Millennium
 millenniumtv-odr-up2.stream/chunks.m3u8
