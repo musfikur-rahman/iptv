@@ -181,10 +181,10 @@ http://103.205.133.19/hls/timetv.m3u8
 http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="https://palmettocoastmedia.com/wp-content/uploads/2018/09/nat-geo-wild-logo-featured.jpg",National Geographic Wild
 http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="https://palmettocoastmedia.com/wp-content/uploads/2018/09/nat-geo-wild-logo-featured.jpg",National Geographic Wild
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="https://palmettocoastmedia.com/wp-content/uploads/2018/09/nat-geo-wild-logo-featured.jpg",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="",Cartoon Network
-http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8index.m3u8
+http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/400x300/2011-09-UTV-Action-New-Logo.jpg" group-title="",UTV Action
 http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-hd-logo-300x300.jpg" group-title="",Star Movies HD
