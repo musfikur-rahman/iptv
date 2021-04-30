@@ -183,23 +183,3 @@ http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
 http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="https://deadline.com/wp-content/uploads/2018/01/nat-geo-wild-logo-featured.jpg",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="",Cartoon Network
-http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/400x300/2011-09-UTV-Action-New-Logo.jpg" group-title="",UTV Action
-http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-hd-logo-300x300.jpg" group-title="",Star Movies HD
-http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="",Sony Six
-http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngjoy.com/pngm/952/11033345_india-cricket-logo-star-sports-2-logo-png.png" group-title="",Star Sports 2
-http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="",SONY TEN 1 HD
-http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="",STAR SPORTS SELECT 2 HD
-http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="",ESPN 2
-http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.wallpaperup.com/uploads/wallpapers/2014/09/15/443430/e31ba04f0c2236ff1495e96caf2d8c55-700.jpg" group-title="",HBO
-http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/4c/e0/e3/4ce0e38496edb42cc6427a89f007a8b8.jpg" group-title="",GTV
-http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
