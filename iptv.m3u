@@ -247,3 +247,5 @@ http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
 http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2020/01/nat-geo-logo.jpg" group-title="",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.firstpost.com/wp-content/uploads/2014/01/discovery-channel-logo_8755.jpg" group-title="",Discovery HD
+https://www.fanmingming.cn/hls/discovery.m3u8
