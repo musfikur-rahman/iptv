@@ -34,7 +34,7 @@ https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kUbVQFtI7x1Q4RrSl
 https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08nZRNA8rhPV7MgJqObw-LGM)/dm/3/x7a7ru1/s/live-4.m3u8
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
 https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08qPh9SRKThaG7MGhgOrPxVM)/dm/3/x7a7rf7/s/live-4.m3u8
-#EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
+#EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
