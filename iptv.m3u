@@ -253,3 +253,5 @@ http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.firstpost.com/wp-content/uploads/2014/01/discovery-channel-logo_8755.jpg" group-title="",Discovery HD
 https://www.fanmingming.cn/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/08/06/axn.jpg" group-title="",AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
