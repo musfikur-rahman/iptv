@@ -255,3 +255,5 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 https://www.fanmingming.cn/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/08/06/axn.jpg" group-title="",AXN
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#EXTINF:-1 , tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-mvx-HfYEUOo/WnGiXd_eFXI/AAAAAAAAHLE/ch9VoOaNvl4JmoLGh0LXxRzwY_HPgzEQACLcBGAs/s1600/Blue%2BAnt%2BExtreme.jpg" group-title="",BLUE ANT EXTREME
+http://210.210.155.35/dr9445/h/h15/01.m3u8
