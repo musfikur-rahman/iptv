@@ -1,183 +1,183 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/aldawahtv.jpg?x15351",Aldawah TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/aldawahtv.jpg?x15351" group-title="",Aldawah TV
 https://aldawahtv.telelivebd.com/AldawahTV/AldawahTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/HRjXQdYEqsE.png",Ananda TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/HRjXQdYEqsE.png" group-title="",Ananda TV
 http://103.205.133.48/hls/anandatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x15351",Asian TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x15351" group-title="",Asian TV
 http://103.205.133.48/hls/asiantv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x15351",ATN Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x15351" group-title="",ATN Bangla
 http://103.205.133.48/hls/atnbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x15351",ATN News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x15351" group-title="",ATN News
 http://103.205.133.48/hls/atnnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/02/71banglatv.jpg",71 Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/02/71banglatv.jpg" group-title="",71 Bangla
 http://103.205.133.48/hls/71bangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x15351",Bangla Vision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x15351" group-title="",Bangla Vision
 http://103.205.133.48/hls/banglavision.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg",Bijoy TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" group-title="",Bijoy TV
 http://103.205.133.48/hls/bijoytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/banglatvhd-1.jpg?x15351",Bangla Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/banglatvhd-1.jpg?x15351" group-title="",Bangla Tv
 http://103.205.133.48/hls/banglatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Btv_logo.png",BTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Btv_logo.png" group-title="",BTV
 http://103.205.133.48/hls/btv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.staticflickr.com/8163/7570254906_e5ac26aae2_m.jpg",BTV World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.staticflickr.com/8163/7570254906_e5ac26aae2_m.jpg" group-title="",BTV World
 http://103.205.133.48/hls/btvworld.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x15351",Channel 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x15351" group-title="",Channel 24
 http://103.205.133.48/hls/channel24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x15351",Channel I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x15351" group-title="",Channel I
 http://103.205.133.48/hls/ichannel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x15351",DBC News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x15351" group-title="",DBC News
 http://103.205.133.48/hls/dbcnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media-eng.dhakatribune.com/uploads/2016/12/1535_.jpg",Deepto TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media-eng.dhakatribune.com/uploads/2016/12/1535_.jpg" group-title="",Deepto TV
 http://103.205.133.48/hls/deeptotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-9EB96ZSuOMw/WHSSgQ3NkTI/AAAAAAAAFzE/hrs2OdLhrVw5zqVfGQn5cDdCq2PrL2DhACLcB/s1600/desh-tv-2.jpg",Desh TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-9EB96ZSuOMw/WHSSgQ3NkTI/AAAAAAAAFzE/hrs2OdLhrVw5zqVfGQn5cDdCq2PrL2DhACLcB/s1600/desh-tv-2.jpg" group-title="",Desh TV
 http://103.205.133.48/hls/deshtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x15351",ETV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x15351" group-title="",ETV
 http://103.205.133.48/hls/ekushey.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x15351",Gaan Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x15351" group-title="",Gaan Bangla
 http://103.205.133.48/hls/gaanbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x15351",Jamuna TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x15351" group-title="",Jamuna TV
 http://103.205.133.48/hls/jamunatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg",Madani Ch. Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg" group-title="",Madani Ch. Bangla
 http://103.205.133.48/hls/madanitv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x15351",Mohona TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x15351" group-title="",Mohona TV
 http://103.205.133.48/hls/mohonatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x15351",My TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x15351" group-title="",My TV
 http://103.205.133.48/hls/mytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x15351",News24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x15351" group-title="",News24
 http://103.205.133.48/hls/news24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://shikdarfilms.com/wp-content/uploads/2019/03/ntv.jpg",NTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://shikdarfilms.com/wp-content/uploads/2019/03/ntv.jpg" group-title="",NTV
 http://103.205.133.48/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg",Nagorik
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-title="",Nagorik
 http://103.205.133.48/hls/nagorik.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/08/rtnews.jpg",RT News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/08/rtnews.jpg" group-title="",RT News
 http://103.205.133.48/hls/rtnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x15351",RTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x15351" group-title="",RTV
 http://103.205.133.48/hls/rtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnisOsI2WHNU_lzPDbfLl1f1Vg9DPiuV2wbTnuZ5=s900-c-k-c0x00ffffff-no-rj",Ruposhi Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnisOsI2WHNU_lzPDbfLl1f1Vg9DPiuV2wbTnuZ5=s900-c-k-c0x00ffffff-no-rj" group-title="",Ruposhi Bangla
 http://103.205.133.48/hls/ruposhibangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x15351",SATV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x15351" group-title="",SATV
 http://103.205.133.48/hls/satv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x15351",Shomoy News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x15351" group-title="",Shomoy News
 http://103.205.133.48/hls/somoy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x15351",Time Televison
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x15351" group-title="",Time Televison
 http://103.205.133.48/hls/timetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.playboard.app/p/AATXAJzUIDBa1oHi0R9SU75Vx23Il2MLWDAzNkixOe5P/default.jpg",Channel T1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.playboard.app/p/AATXAJzUIDBa1oHi0R9SU75Vx23Il2MLWDAzNkixOe5P/default.jpg" group-title="",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg",&Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg" group-title="",&Tv
 http://103.205.133.48/hls/andtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg",&Picture
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="",&Picture
 http://103.205.133.48/hls/andpicture.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/9xM.jpeg/revision/latest/scale-to-width-down/400?cb=20200119110312",9XM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/9xM.jpeg/revision/latest/scale-to-width-down/400?cb=20200119110312" group-title="",9XM
 http://103.205.133.48/hls/9xm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png",B4U Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png" group-title="",B4U Movies
 http://103.205.133.48/hls/b4umovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png",B4U Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="",B4U Music
 http://103.205.133.48/hls/b4umusic.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.indiaforums.com/channel/320x180/0/070-colors.jpg",Colors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.indiaforums.com/channel/320x180/0/070-colors.jpg" group-title="",Colors
 http://103.205.133.48/hls/chc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sohamcablenetwork.com/static/images/channels/colorshdlogo002.jpg",Colors HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sohamcablenetwork.com/static/images/channels/colorshdlogo002.jpg" group-title="",Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg",Colors Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="",Colors Bangla
 http://103.205.133.48/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjRJEtbD_Gn15f208LavKcgooVdCDskyQ_wqdVI=s900-c-k-c0x00ffffff-no-rj",Dhoom Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjRJEtbD_Gn15f208LavKcgooVdCDskyQ_wqdVI=s900-c-k-c0x00ffffff-no-rj" group-title="",Dhoom Music
 http://103.205.133.48/hls/dhoommusic.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/Sony-Entertaintment-TV.jpg",Sony
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/Sony-Entertaintment-TV.jpg" group-title="",Sony
 http://103.205.133.48/hls/chs.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.assettype.com/afaqs%2Fimport%2Fall%2Fnews%2Fimages%2Fnews_story_grfx%2F2015%2F43496_1_home_big.jpg",Sony 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.assettype.com/afaqs%2Fimport%2Fall%2Fnews%2Fimages%2Fnews_story_grfx%2F2015%2F43496_1_home_big.jpg" group-title="",Sony 8
 http://103.205.133.48/hls/sony8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/Sony-PIX.jpg",Sony Pix HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/Sony-PIX.jpg" group-title="",Sony Pix HD
 http://103.205.133.48/hls/sonypix.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg",Star Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="",Star Plus
 http://103.205.133.48/hls/chsp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="",Star Jalsha
 http://103.205.133.48/hls/chsj.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg",Wow Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="",Wow Cinema
 http://103.205.133.48/hls/wowcinema.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg",Zee Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="",Zee Bangla
 http://103.205.133.48/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png",Zing
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="",Zing
 http://103.205.133.48/hls/zing.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg",Star Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="",Star Sports 2 HD
 http://103.205.133.48/hls/chss2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg",Sony Ten 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="",Sony Ten 1
 http://103.205.133.48/hls/ten1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg",SONY TEN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" group-title="",SONY TEN 2 HD
 http://103.205.133.48/hls/ten2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://likeetv.com/uploads/tv_image/sony-ten-3.jpg",SONY TEN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://likeetv.com/uploads/tv_image/sony-ten-3.jpg" group-title="",SONY TEN 3 HD
 http://103.205.133.48/hls/ten3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/ESPN_identification_card.jpg",ESPN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/ESPN_identification_card.jpg" group-title="",ESPN
 https://gma2.blab.email/fs2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dp4uuw9dn4glv.cloudfront.net/images/channel/espn2.jpg",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dp4uuw9dn4glv.cloudfront.net/images/channel/espn2.jpg" group-title="",ESPN 2
 https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",ESPN U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg" group-title="",ESPN U
 https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg",FOX SPORTS NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="",FOX SPORTS NEWS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/765357041653276672/Y649c6qX_400x400.jpg",SPORTS MAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/765357041653276672/Y649c6qX_400x400.jpg" group-title="",SPORTS MAX
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="",PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png",Zee News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png" group-title="",Zee News
 http://103.205.133.48/hls/zeenews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/masti-TV.jpg",Mastiii
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/masti-TV.jpg" group-title="",Mastiii
 http://103.205.133.48/hls/masti.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/Discovry-Kid's.jpg",Discovery Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/Discovry-Kid's.jpg" group-title="",Discovery Kids
 http://103.205.133.48/hls/discoverykids.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="",BBC Earth
 http://103.205.133.48/hls/bbcearth.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg",Al Jazeera
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="",Al Jazeera
 http://103.205.133.48/hls/aljazeera.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2019/04/rishtey-cineplex_1555156123.jpg",Rishtey Cineplex
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2019/04/rishtey-cineplex_1555156123.jpg" group-title="",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Jonack_logo.png",Jonack TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Jonack_logo.png" group-title="",Jonack TV
 http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png",Sony Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png" group-title="",Sony Movies
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Z_Living_Logo.png",Zee Living
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Z_Living_Logo.png" group-title="",Zee Living
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/06/30/MTV.jpg",MTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/06/30/MTV.jpg" group-title="",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/brandmay27licenseindia9335dde5d9c77e26.jpg",FASION TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/brandmay27licenseindia9335dde5d9c77e26.jpg" group-title="",FASION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://indeltv.in/wp-content/uploads/2019/11/Channel_B4ukadak.png",B4U KADAK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://indeltv.in/wp-content/uploads/2019/11/Channel_B4ukadak.png" group-title="",B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c8.alamy.com/comp/KW4YTM/zee-classic-2017-logo-KW4YTM.jpg",ZEE CLASSIC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c8.alamy.com/comp/KW4YTM/zee-classic-2017-logo-KW4YTM.jpg" group-title="",ZEE CLASSIC
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0204.MusicIndia.in/en/1x1/208x208/test_pic1552392696883.jpg",Music India
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0204.MusicIndia.in/en/1x1/208x208/test_pic1552392696883.jpg" group-title="",Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png",Zee Bioscope
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png" group-title="",Zee Bioscope
 http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png",Bflix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="",Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg",Manoranjan Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/800/202003/bollywood-premiere-logo.png.jpg",Bollywood Premier
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/800/202003/bollywood-premiere-logo.png.jpg" group-title="",Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/440-4405466_fight-sports-logo-hd-png-download.png",Fight Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/440-4405466_fight-sports-logo-hd-png-download.png" group-title="",Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/2c/e6/05/2ce60557768dee87769c3b0c4e6b347f.jpg",Ad Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/2c/e6/05/2ce60557768dee87769c3b0c4e6b347f.jpg" group-title="",Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.faabor.ma/upload/logo/tv/60.jpg",Ad Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.faabor.ma/upload/logo/tv/60.jpg" group-title="",Ad Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-3-5166.jpg",Ad Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-3-5166.jpg" group-title="",Ad Sports 3
 https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/UJswUfQBgU8/maxresdefault.jpg",9x Jalwa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/UJswUfQBgU8/maxresdefault.jpg" group-title="",9x Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/10/23/aajtak.jpg",Aaj Tak
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/10/23/aajtak.jpg" group-title="",Aaj Tak
 https://aajtaklive-amd.akamaized.net:443/hls/live/2014416/aajtak/aajtaklive/aajtak_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ibcces.org/wp-content/uploads/2019/02/bbc-news-logo.jpg",BBC World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ibcces.org/wp-content/uploads/2019/02/bbc-news-logo.jpg" group-title="",BBC World
 http://103.205.133.48/hls/bbcnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg",Al Jazeera
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg",Star Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="",Star Movies
 http://103.205.133.48/hls/starmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2020/01/nat-geo-logo.jpg",National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2020/01/nat-geo-logo.jpg" group-title="",National Geographic
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2020/01/nat-geo-logo.jpg",National Geographic Wild HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2020/01/nat-geo-logo.jpg" group-title="",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.firstpost.com/wp-content/uploads/2014/01/discovery-channel-logo_8755.jpg",Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.firstpost.com/wp-content/uploads/2014/01/discovery-channel-logo_8755.jpg" group-title="",Discovery HD
 https://www.fanmingming.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/08/06/axn.jpg",AXN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/08/06/axn.jpg" group-title="",AXN
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-mvx-HfYEUOo/WnGiXd_eFXI/AAAAAAAAHLE/ch9VoOaNvl4JmoLGh0LXxRzwY_HPgzEQACLcBGAs/s1600/Blue%2BAnt%2BExtreme.jpg",BLUE ANT EXTREME
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-mvx-HfYEUOo/WnGiXd_eFXI/AAAAAAAAHLE/ch9VoOaNvl4JmoLGh0LXxRzwY_HPgzEQACLcBGAs/s1600/Blue%2BAnt%2BExtreme.jpg" group-title="",BLUE ANT EXTREME
 http://210.210.155.35/dr9445/h/h15/01.m3u8
