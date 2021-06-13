@@ -61,7 +61,7 @@ http://103.205.133.48/hls/satv.m3u8
 http://103.205.133.48/hls/somoy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x15351" group-title="",Time Televison
 http://103.205.133.48/hls/timetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.playboard.app/p/AATXAJzUIDBa1oHi0R9SU75Vx23Il2MLWDAzNkixOe5P/default.jpg" group-title="",Channel T1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.playboard.app/p/AATXAJzUIDBa1oHi0R9SU75Vx23Il2MLWDAzNkixOe5P/default.jpg" group-title="",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg" group-title="",&Tv
 http://103.205.133.48/hls/andtv.m3u8
