@@ -49,6 +49,8 @@ http://103.205.133.21/hls/deshtv.m3u8
 http://103.205.133.21/hls/ekushey.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x15351" group-title="",Gaan Bangla
 http://103.205.133.21/hls/gaanbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-NGmDuNc2Tr4/WQmQRHWqoYI/AAAAAAAAG-c/heiPTLzPI0UrFdCy1bBjAIcc2RQJ46CtwCLcB/s1600/gtv.jpg" group-title="",GTV
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x15351" group-title="",Jamuna TV
 http://103.205.133.21/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg" group-title="",Madani Ch. Bangla
