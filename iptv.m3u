@@ -49,6 +49,10 @@ http://103.205.133.21/hls/news24.m3u8
 http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-title="",Nagorik
 http://103.205.133.21/hls/nagorik.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1131554149/peacetv_400x400.jpg" group-title="",Peace TV Bangla
+http://103.205.133.21/hls/peacetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d30fl32nd2baj9.cloudfront.net/media/2018/08/04/ekattor-tv.jpg/ALTERNATES/w300/Ekattor-Tv.jpg" group-title="",EKATTOR TV
+http://103.205.133.21/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/08/rtnews.jpg" group-title="",RT News
 http://103.205.133.21/hls/rtnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x15351" group-title="",RTV
