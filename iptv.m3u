@@ -194,13 +194,17 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="",Star Movies
 http://103.205.133.21/hls/starmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2020/01/nat-geo-logo.jpg" group-title="",National Geographic
+http://89.17.204.38/ch54/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2020/01/nat-geo-logo.jpg" group-title="",National Geographic
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hsn61XJk/1200px-Nat-Geo-Wild-logo.png", NAT Geo Wild
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/605535291567304704/CVMYRE93_400x400.jpg" group-title="",National Geographic Wild HD
 http://89.17.204.38/ch55/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/605535291567304704/CVMYRE93_400x400.jpg" group-title="",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.firstpost.com/wp-content/uploads/2014/01/discovery-channel-logo_8755.jpg" group-title="",Discovery HD
-https://www.fanmingming.cn/hls/discovery.m3u8
+http://89.17.204.38/ch52/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2012/12/19/Science-logo-horizontal.jpg" group-title="",Discovery Science
+http://89.17.204.38/ch90/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/08/06/axn.jpg" group-title="",AXN
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-mvx-HfYEUOo/WnGiXd_eFXI/AAAAAAAAHLE/ch9VoOaNvl4JmoLGh0LXxRzwY_HPgzEQACLcBGAs/s1600/Blue%2BAnt%2BExtreme.jpg" group-title="",BLUE ANT EXTREME
