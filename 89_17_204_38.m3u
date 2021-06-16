@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 , tvg-id="" tvg-name="" tvg-logo="" group-title="",1 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",1
 http://89.17.204.38/ch01/index.m3u8
-#EXTINF:-1,2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",1
 http://89.17.204.38/ch02/index.m3u8
 #EXTINF:-1,3
 http://89.17.204.38/ch03/index.m3u8
