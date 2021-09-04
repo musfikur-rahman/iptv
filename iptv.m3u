@@ -195,8 +195,6 @@ http://103.205.133.48/hls/b4umovies.m3u8
 http://103.205.133.48/hls/b4umusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.indiaforums.com/channel/320x180/0/070-colors.jpg" group-title="",Colors
 http://103.205.133.48/hls/chc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.indiaforums.com/channel/320x180/0/070-colors.jpg" group-title="",Colors
-http://tv.ebox.live:8081/thunderbd/68/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjEgNjo1MzoyOSBQTSZoYXNoX3ZhbHVlPUkrVXI5cFljazkyTVQwcWQxTkN2Z1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sohamcablenetwork.com/static/images/channels/colorshdlogo002.jpg" group-title="",Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="",Colors Bangla
