@@ -199,6 +199,8 @@ http://103.205.133.48/hls/chc.m3u8
 http://208.115.215.42/Colors_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="",Colors Bangla
 http://103.205.133.48/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="",Colors Bangla
+http://tv.ebox.live:8081/thunderbd/34/chunks.m3u8?nimblesessionid=2934201&wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjEgNjo0OToyNiBQTSZoYXNoX3ZhbHVlPUcrYVBXN0IwNWdPdEN1U0lVYlpSekE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjRJEtbD_Gn15f208LavKcgooVdCDskyQ_wqdVI=s900-c-k-c0x00ffffff-no-rj" group-title="",Dhoom Music
 http://103.205.133.48/hls/dhoommusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/Sony-Entertaintment-TV.jpg" group-title="",Sony
