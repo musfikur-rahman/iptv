@@ -103,6 +103,8 @@ http://103.205.133.48/hls/gaanbangla.m3u8
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-NGmDuNc2Tr4/WQmQRHWqoYI/AAAAAAAAG-c/heiPTLzPI0UrFdCy1bBjAIcc2RQJ46CtwCLcB/s1600/gtv.jpg" group-title="",GTV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCuwY1PvMIyglzaj2LAw37yfJnu34Dl7RMSf20yJEihYhOG1eu-G0KcHB0yDovLiZ3V0M&usqp=CAU" group-title="",T-Sports
+http://stream.dhakaflix.com:8081/live/mystream/main/mystream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x15351" group-title="",Independent TV
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x15351" group-title="",Jamuna TV
@@ -199,8 +201,6 @@ http://103.205.133.48/hls/chc.m3u8
 http://208.115.215.42/Colors_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="",Colors Bangla
 http://103.205.133.48/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="",Colors Bangla
-http://tv.ebox.live:8081/thunderbd/34/chunks.m3u8?nimblesessionid=2934201&wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjEgNjo0OToyNiBQTSZoYXNoX3ZhbHVlPUcrYVBXN0IwNWdPdEN1U0lVYlpSekE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjRJEtbD_Gn15f208LavKcgooVdCDskyQ_wqdVI=s900-c-k-c0x00ffffff-no-rj" group-title="",Dhoom Music
 http://103.205.133.48/hls/dhoommusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.homesystems.in/clogo/Sony-Entertaintment-TV.jpg" group-title="",Sony
@@ -217,8 +217,6 @@ http://103.205.133.48/hls/chsj.m3u8
 http://103.205.133.48/hls/wowcinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="",Zee Bangla
 http://103.205.133.48/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="",Zee Bangla
-http://tv.ebox.live:8081/thunderbd/34/chunks.m3u8?nimblesessionid=2934248&wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjEgNjo1MDozNiBQTSZoYXNoX3ZhbHVlPXAybDgxM29mWjFzNnZYcEt0YmhHUXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="",Zing
 http://103.205.133.48/hls/zing.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CK9Jhzyp/Star-Sports-India-logo1.png",Star Sports 1
