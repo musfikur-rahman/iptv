@@ -105,6 +105,14 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCuwY1PvMIyglzaj2LAw37yfJnu34Dl7RMSf20yJEihYhOG1eu-G0KcHB0yDovLiZ3V0M&usqp=CAU" group-title="",T-Sports
 http://stream.dhakaflix.com:8081/live/mystream/main/mystream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-NGmDuNc2Tr4/WQmQRHWqoYI/AAAAAAAAG-c/heiPTLzPI0UrFdCy1bBjAIcc2RQJ46CtwCLcB/s1600/gtv.jpg" group-title="",GTV
+http://stream.dhakaflix.com:8081/live/GTV-4K/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-NGmDuNc2Tr4/WQmQRHWqoYI/AAAAAAAAG-c/heiPTLzPI0UrFdCy1bBjAIcc2RQJ46CtwCLcB/s1600/gtv.jpg" group-title="",GTV
+http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-NGmDuNc2Tr4/WQmQRHWqoYI/AAAAAAAAG-c/heiPTLzPI0UrFdCy1bBjAIcc2RQJ46CtwCLcB/s1600/gtv.jpg" group-title="",GTV
+http://stream.dhakaflix.com:8081/live/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-NGmDuNc2Tr4/WQmQRHWqoYI/AAAAAAAAG-c/heiPTLzPI0UrFdCy1bBjAIcc2RQJ46CtwCLcB/s1600/gtv.jpg" group-title="",GTV
+http://stream.dhakaflix.com:8081/live/gtv-2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x15351" group-title="",Independent TV
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x15351" group-title="",Jamuna TV
