@@ -225,6 +225,8 @@ http://103.205.133.48/hls/chsj.m3u8
 http://103.205.133.48/hls/wowcinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="",Zee Bangla
 http://103.205.133.48/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="",Zee Bangla
+https://edge4.bioscopelive.com/hls/anonymous/aQAKLyfcB09-izUhVoPhKQ/1635788806/zee_bangla_low/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="",Zing
 http://103.205.133.48/hls/zing.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CK9Jhzyp/Star-Sports-India-logo1.png",Star Sports 1
