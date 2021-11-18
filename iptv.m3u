@@ -39,19 +39,19 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/comilla-24.jpg" group-title="",Cumilla 24
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",DBC News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/dbc-news.jpg" group-title="",DBC News
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",Doyel TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/doyel-tv.jpg" group-title="",Doyel TV
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",DW NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/dw-news.jpg" group-title="",DW NEWS
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",EKUSHEY TV [BD]
+#EXTINF:-1 tvg-id="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/ekushey_tv.jpg" group-title="",EKUSHEY TV [BD]
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",EKUSHEY TV [BD]
+#EXTINF:-1 tvg-id="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/ekushey_tv.jpg" group-title="",EKUSHEY TV [BD]
 https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",France 24
+#EXTINF:-1 tvg-id="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/france-24.jpg" group-title="",France 24
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/fr24.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",Gaan Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/gaan-bangla-tv.jpg" group-title="",Gaan Bangla
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/gazi-tv.jpg" group-title="",GTV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
