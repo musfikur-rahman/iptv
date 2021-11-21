@@ -113,9 +113,9 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/fashion-tv.jpg" group-title="",FASION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_bioskop.png" group-title="",Zee Bioscope
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/zee-bioskop.jpg" group-title="",Zee Bioscope
 http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="",Bflix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/bflix-movies.jpg" group-title="",Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
