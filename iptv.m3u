@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/gazi-tv.jpg" group-title="",GTV
 http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/gazi-tv.jpg" group-title="",GTV
+http://172.16.128.250:8081/live/gazitv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/gazi-tv.jpg" group-title="",GTV
 http://stream.dhakaflix.com:8081/live/mystream/main/mystream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/gazi-tv.jpg" group-title="",GTV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
