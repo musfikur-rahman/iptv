@@ -131,29 +131,31 @@ http://103.55.144.46/hls/sonypixhd.m3u8
 http://103.55.144.46/hls/movies-now.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/starmovies.jpg" group-title="",STAR MOVIES
 http://103.55.144.46/hls/starmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",BBC EARTH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/bbcearth.jpg" group-title="",BBC EARTH
 http://103.55.144.46/hls/bbcearth.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",MN+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/mn+.jpg" group-title="",MN+
 http://103.55.144.46/hls/mn+.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/animalplanent.jpg" group-title="",ANIMAL PLANET
 http://103.55.144.46/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/dis.jpg" group-title="",DISCOVERY
 http://103.55.144.46/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",NEO HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/Nat_Geo_HD.jpg" group-title="",NEO HD
 http://103.55.144.46/hls/ngohd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",TLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/tlc.jpg" group-title="",TLC
 http://103.55.144.46/hls/tlc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/wild.jpg" group-title="",NAT GEO WILD
 http://103.55.144.46/hls/wild.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/star-world-hd.jpg" group-title="",STAR WORLD HD
+http://103.55.144.46/hls/star-worldhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/mnx-hd.jpg" group-title="",MNX HD
 http://103.55.144.46/hls/mnx-hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/axn.jpg" group-title="",AXN
 http://103.55.144.46/hls/axn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/bbcworld.jpg" group-title="",BBC WORLD
 http://103.55.144.46/hls/bbcworld.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/aljazeera.jpg" group-title="",ALJAZEERA
 http://103.55.144.46/hls/aljazeera.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/bindass.jpg" group-title="",BINDAAS
 http://103.55.144.46/hls/bindass.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/" group-title="",
 http://103.55.144.46/hls/utvaction.m3u8
