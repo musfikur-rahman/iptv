@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/sun-bangla.jpg" group-title="",SUN BANGLA
+http://103.55.144.46/hls/sunbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/independent-tv.jpg" group-title="",Independent Tv
+http://103.55.144.46/hls/indepen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/sony-aath.jpg" group-title="",Sony Aath
+http://103.55.144.46/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/discovery-kids.jpg" group-title="",DISCOVERY KIDS
 http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/nick.jpg" group-title="",NICK
