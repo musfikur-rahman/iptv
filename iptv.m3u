@@ -1,42 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/gazi-tv.jpg" group-title="",GTV
 http://172.16.128.2:8081/live/sky1010/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/discovery-kids.jpg" group-title="",DISCOVERY KIDS
-http://103.55.144.46/hls/dis-kid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/nick.jpg" group-title="",NICK
-http://103.55.144.46/hls/nick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/cartoon-network.jpg" group-title="",CARTOON NETWORK
-http://103.55.144.46/hls/cn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/pogo.jpg" group-title="",POGO
-http://103.55.144.46/hls/pogo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/gazi-tv.jpg" group-title="",GTV
-http://172.16.128.250:8081/live/gazitv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/gazi-tv.jpg" group-title="",GTV
-http://103.55.144.46/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/sony-six-hd.jpg" group-title="",SONY SIX
-http://103.55.144.46/hls/sonysix.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/euro-sport.jpg" group-title="",EURO
-http://103.55.144.46/hls/euro.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/Star_Sports_Select_1_HD.jpg" group-title="",STAR SPORT SELECT 1 HD
-http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/stersports1hd.jpg" group-title="",STAR SPORT 1 HD
-http://103.55.144.46/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/ster-sport-2hd.jpg" group-title="",STAR SPORT 2 HD
-http://103.55.144.46/hls/starsports2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/sonyten3.jpg" group-title="",SONY TEN 3
-http://103.55.144.46/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/select2.jpg" group-title="",STAR SPORT SELECT 2 HD
-http://103.55.144.46/hls/select2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/sony_ten_2.jpg" group-title="",SONY TEN 2
-http://103.55.144.46/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/sony_ten_1.jpg" group-title="",SONY TEN 1
-http://103.55.144.46/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/tsports-tv.jpg" group-title="", T-SPORTS
-http://103.55.144.46/hls/t-sports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/ten_sports.jpg" group-title="",TEN
-http://103.55.144.46/hls/ten.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/ptv.jpg" group-title="",PTV
-http://103.55.144.46/hls/ptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/tsports-tv.jpg" group-title="",tsports
+http://172.16.128.2:8081/live/sky2001/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/ananda-tv.jpg" group-title="",Ananda TV
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://musfikur-rahman.github.io/iptv/logo/atn-bangla-tv.jpg" group-title="",ATN Bangla
